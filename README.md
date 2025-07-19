@@ -62,8 +62,7 @@
 - 🧠 Developing deep learning models using **TensorFlow**, **Keras**, and **PyTorch**  
 - 🧩 Working with **CNNs** for image classification and segmentation tasks  
 - 🔍 Exploring **LLMs**, **transformer-based models**, and transfer learning techniques  
-- ⚙️ Enhancing MLOps skills: experiment tracking (MLflow), data versioning (DVC), and model deployment (Docker, FastAPI)  
-- 🧪 Participating in Kaggle competitions to refine feature engineering and model stacking skills  
+- ⚙️ Enhancing MLOps skills: experiment tracking (MLflow), data versioning (DVC), and model deployment (Docker, FastAPI)   
 ---
 
 ## 📫 Let’s Connect
