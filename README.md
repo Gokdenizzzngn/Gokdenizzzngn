@@ -40,11 +40,11 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🔗 [Project‑A: Car Price Prediction Project](https://github.com/Gokdenizzzngn/Python-ile-Araba-Fiyat-Tahmin-Projesi) | Numpy, Pandas, Tensorflow, Seaborn, Matplotlib |
-| 🔗 [Project‑B: World-Happiness-Score-Analysis-between-2015-2017](https://github.com/Gokdenizzzngn/Gokdenizzzngn-World-Happiness-Score-Analysis-between-2015-2017) | Pandas, Numpy, Seaborn, Matplotlib, Sci-kit learn |
-| 🔗 [Project‑C: CLTV_Project](https://github.com/Gokdenizzzngn/CLTV_Project) | Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Xgboost|
-| 🔗 [Project‑D: World_Water_Quality_Forecast](https://github.com/Gokdenizzzngn/World_Water_Quality_Forecast) | Matplotlib, Scikit-learn, Pandas, Seaborn, Plotly, Numpy |
-| 🔗 [Project‑E: Age-and-Gender-Detection-Project](https://github.com/Gokdenizzzngn/Age-and-Gender-Detection-Project) | Tensorflow>=2.14, Keras, Numpy, Pandas, Matplotlib, Scikit-learn, Opencv-Python |
+| 🔗 [Project‑A: Car Price Prediction Project] | (https://github.com/Gokdenizzzngn/Python-ile-Araba-Fiyat-Tahmin-Projesi) | Numpy, Pandas, Tensorflow, Seaborn, Matplotlib |
+| 🔗 [Project‑B: World-Happiness-Score-Analysis-between-2015-2017]| (https://github.com/Gokdenizzzngn/Gokdenizzzngn-World-Happiness-Score-Analysis-between-2015-2017) | Pandas, Numpy, Seaborn, Matplotlib, Sci-kit learn |
+| 🔗 [Project‑C: CLTV_Project] |(https://github.com/Gokdenizzzngn/CLTV_Project) | Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Xgboost|
+| 🔗 [Project‑D: World_Water_Quality_Forecast] |(https://github.com/Gokdenizzzngn/World_Water_Quality_Forecast) | Matplotlib, Scikit-learn, Pandas, Seaborn, Plotly, Numpy |
+| 🔗 [Project‑E: Age-and-Gender-Detection-Project] |(https://github.com/Gokdenizzzngn/Age-and-Gender-Detection-Project) | Tensorflow>=2.14, Keras, Numpy, Pandas, Matplotlib, Scikit-learn, Opencv-Python |
 
 ---
 
