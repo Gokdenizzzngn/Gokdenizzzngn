@@ -1,73 +1,187 @@
-<h1 align="center">Hi, I’m Gökdeniz 👋</h1>
-<h3 align="center">Deep Learning | Machine Learning | Data Science Enthusiast</h3>
+ 
+<div align="center">
+
+# Hi, I'm Gökdeniz 👋
+
+### Junior Software Developer | Java Backend • Python • Data
+
+**Computer Engineer | Learning, Building & Improving**
+
+I'm a junior developer interested in building backend applications with Java and exploring data-driven solutions with Python.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g%C3%B6kdeniz-zengin-8181a0269/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gokdenizzngn@hotmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Gokdenizzzngn&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/Gokdenizzzngn)
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 Computer Engineer with strong interest in Deep Learning, ML & Data Science  
-- 🔬 Working on personal and open‑source projects in Data Science, Deep Learning & Machine Learning  
-- 🌱 Currently exploring PyTorch, TensorFlow, HuggingFace Transformers, Scikit Learn, CNN, RNN  
-- 📫 Contact: gokdenizzngn@hotmail.com • [LinkedIn](https://www.linkedin.com/in/g%C3%B6kdeniz-zengin-8181a0269/)  
-
----
-
-## 🛠 Skills & Tools
-
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-black?style=flat-square&logo=scikit-learn)
-![Hugging Face](https://img.shields.io/badge/-HuggingFace-black?style=flat-square&logo=huggingface)
-![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=matplotlib)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+- 🎓 Computer Engineer with an interest in **backend development and data technologies**
+- ☕ Developing my Java skills through hands-on projects, OOP and application logic
+- 🐍 Using Python for data analysis, machine learning and practical applications
+- 🗄️ Learning **Spring Boot, REST APIs, SQL and relational databases**
+- 🛠️ Interested in clean code, problem-solving and maintainable software
+- 🚀 Working toward becoming a backend developer with strong Python and data skills
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gokdenizzzngn&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gokdenizzzngn&theme=tokyonight" />
-</p>
+### ☕ Backend & Programming
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### 📊 Data & Machine Learning
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+### ⚙️ Development Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square)
+
+### 🌱 Currently Learning
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-## 🧠 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🔗 [Project‑A: Car Price Prediction Project] | (https://github.com/Gokdenizzzngn/Python-ile-Araba-Fiyat-Tahmin-Projesi) | Numpy, Pandas, Tensorflow, Seaborn, Matplotlib |
-| 🔗 [Project‑B: World-Happiness-Score-Analysis-between-2015-2017]| (https://github.com/Gokdenizzzngn/Gokdenizzzngn-World-Happiness-Score-Analysis-between-2015-2017) | Pandas, Numpy, Seaborn, Matplotlib, Sci-kit learn |
-| 🔗 [Project‑C: CLTV_Project] |(https://github.com/Gokdenizzzngn/CLTV_Project) | Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Xgboost|
-| 🔗 [Project‑D: World_Water_Quality_Forecast] |(https://github.com/Gokdenizzzngn/World_Water_Quality_Forecast) | Matplotlib, Scikit-learn, Pandas, Seaborn, Plotly, Numpy |
-| 🔗 [Project‑E: Age-and-Gender-Detection-Project] |(https://github.com/Gokdenizzzngn/Age-and-Gender-Detection-Project) | Tensorflow>=2.14, Keras, Numpy, Pandas, Matplotlib, Scikit-learn, Opencv-Python |
+### ☕ Java & Application Development
+
+**🛒 Java E-Commerce Product Management**
+
+A modular Java console application for managing products, shopping carts and stock.
+
+- Product management, sorting and validation
+- Cart operations, stock updates and discount calculations
+- Object-oriented design with model, service and utility classes
+
+**Tech:** Java, OOP, Collections, BigDecimal
+
+[View Repository](https://github.com/Gokdenizzzngn/Java-E-ticaretuygulamasi)
+
+**🔤 Java Character Analysis**
+
+A Java application for text and character analysis.
+
+- Case-sensitive and case-insensitive character counting
+- Input validation and error handling
+- Modular methods and structured application logic
+
+**Tech:** Java, Methods, String Processing
+
+[View Repository](https://github.com/Gokdenizzzngn/Java-Karakter-Analizi)
+
+### 🐍 Python & Data Projects
+
+**🎵 Moodify — Spotify Recommendation System**
+
+A content-based music recommendation application that suggests similar songs based on audio features.
+
+- K-Nearest Neighbors and cosine similarity
+- Audio feature preprocessing and scaling
+- Interactive interface built with Streamlit
+
+**Tech:** Python, Scikit-learn, Pandas, NumPy, Streamlit
+
+[View Repository](https://github.com/Gokdenizzzngn/Moodify) | [Live Demo](https://moodify-058.streamlit.app/)
+
+**🚗 Car Price Prediction**
+
+A machine learning project exploring vehicle price estimation through data preprocessing and predictive modeling.
+
+**Tech:** Python, Pandas, NumPy, TensorFlow
+
+[View Repository](https://github.com/Gokdenizzzngn/Python-ile-Araba-Fiyat-Tahmin-Projesi)
+
+**💧 Water Quality Prediction**
+
+Analyzing water quality data and exploring classification methods to predict water potability.
+
+**Tech:** Python, Scikit-learn, Pandas, Plotly
+
+[View Repository](https://github.com/Gokdenizzzngn/World_Water_Quality_Forecast)
+
+**📈 Customer Lifetime Value Analysis**
+
+Exploring customer data, purchasing patterns and predictive approaches to customer lifetime value.
+
+**Tech:** Python, Pandas, Scikit-learn, XGBoost
+
+[View Repository](https://github.com/Gokdenizzzngn/CLTV_Project)
 
 ---
 
-## 📝 Contributing & Publications
+## 📊 GitHub Statistics
 
-- ✔️ Contributed to open‑source ML repos — improved model performance and documentation  
-- 📚 Blogged about model interpretability, hyperparameter tuning, and experiment tracking  
-- 🎤 Presented work at meetups & workshops focused on data science and deep learning
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gokdenizzzngn&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gokdenizzzngn&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Gokdenizzzngn&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-## 🚧 Roadmap & Current Focus
+## 👀 Profile Visitors
 
-- 📊 Leveraging **scikit-learn**, **XGBoost**, and **LightGBM** for tabular ML tasks  
-- 🧠 Developing deep learning models using **TensorFlow**, **Keras**, and **PyTorch**  
-- 🧩 Working with **CNNs** for image classification and segmentation tasks  
-- 🔍 Exploring **LLMs**, **transformer-based models**, and transfer learning techniques  
-- ⚙️ Enhancing MLOps skills: experiment tracking (MLflow), data versioning (DVC), and model deployment (Docker, FastAPI)   
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Gokdenizzzngn&label=Profile%20Views&color=blueviolet&style=for-the-badge)
+
+</div>
+
 ---
 
-## 📫 Let’s Connect
+## 🎯 What I'm Working Toward
 
-- ✉️ Email: [gokdenizzngn@hotmail.com]  
-- 🌐 LinkedIn: [https://www.linkedin.com/in/g%C3%B6kdeniz-zengin-8181a0269/] 
+```text
+Java Development
+ ├── Object-Oriented Programming
+ ├── Collections & Exception Handling
+ ├── Spring Boot
+ ├── REST API Development
+ └── SQL & Database Integration
 
-> *“The goal is to turn data into information, and information into insight.”* – Carly Fiorina
+Python & Data
+ ├── Data Analysis
+ ├── Data Preprocessing
+ ├── Machine Learning Basics
+ └── Data-Driven Applications
+```
+
+---
+
+## 📬 Connect With Me
+
+- 💼 **LinkedIn:** [Gökdeniz Zengin](https://www.linkedin.com/in/g%C3%B6kdeniz-zengin-8181a0269/)
+- 📧 **Email:** gokdenizzngn@hotmail.com
+- 🐙 **GitHub:** [Gokdenizzzngn](https://github.com/Gokdenizzzngn)
+
+---
+
+<div align="center">
+
+*Building projects, learning new technologies, and improving one step at a time.*
+
+⭐ Thanks for visiting!
+
+</div>
